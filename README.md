@@ -7,6 +7,6 @@
 
 ###Best month to launch a campaign
 - This analysis shows that May is the best month to launch a campaign
-![May campaign launch](Screen Shot 2020-01-19 at 7.22.39 PM.png)
+![May campaign launch](launch_date_outcomes.png)
 
   
